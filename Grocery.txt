@@ -2,3 +2,9 @@ Grocery
 --------
 Grapes
 Oranges
+Apples
+
+Travel
+-------
+Get Airline Tickets
+Hotel Reservations
